@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Palenight Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": -1,
+    "editor.fontFamily": "'Montserrat', monospace, 'Droid Sans Fallback'",
+    "editor.tabSize": 4,
+    "editor.fontSize":17,
+    "editor.lineHeight": 28,
+    "editor.letterSpacing": 2,
+    "terminal.integrated.fontFamily": "monospace",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "scss.lint.duplicateProperties": "warning",
+    "highlight-matching-tag.leftStyle": {
+        "borderWidth": "0px 0px 0px 1px",
+        "borderStyle": "solid",
+        "borderColor": "#45da4b",
+        "borderRadius": "0"
+    },
+    "highlight-matching-tag.rightStyle": {
+        "borderWidth": "0px 0px 0px 1px",
+        "borderStyle": "solid",
+        "borderColor": "#45da4b",
+        "borderRadius": "0"
+    },
+    "highlight-matching-tag.highlightSelfClosing": true,
+    "highlight-matching-tag.style": {
+        "textDecoration": "underline",
+        "fontWeight": "bold",
+        "textTransform": "uppercase",
+        "backgroundColor": "#08AEEA",
+    }
+}
