@@ -24,11 +24,15 @@ See [UserSettings](User-Settings) for editor preferences.
 * Tslint (By egamma),
 * Vs code Css Comments (By Ash Hitchcock),
 * vscode-icons (By Roberto Huertas),
+* Bracket Pair Colorizer (By CoenraadS),
+* Import Cost (By Wix)
+* IntelliSense for CSS class names (By Zignd)
 
 ## Theme
 
 Palenight Theme (By Whizkydee)
 Cyberpunk (By Max)
+fairyFloss (By sailorhg)
 
 ## Font
 
