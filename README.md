@@ -33,6 +33,7 @@ See [UserSettings](User-Settings) for editor preferences.
 Palenight Theme (By Whizkydee)
 Cyberpunk (By Max)
 fairyFloss (By sailorhg)
+One Dark pro (By Binaryify)
 
 ## Font
 
