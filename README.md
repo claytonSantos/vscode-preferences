@@ -27,6 +27,7 @@ See [UserSettings](User-Settings) for editor preferences.
 * Bracket Pair Colorizer (By CoenraadS),
 * Import Cost (By Wix)
 * IntelliSense for CSS class names (By Zignd)
+* markdownlint (David Anson)
 
 ## Theme
 
