@@ -8,6 +8,14 @@ See [UserSettings](User-Settings) for editor preferences.
 
 ### List of installed packages
 
+* Color Highlight (Sergi Naumov),
+* DotENV (mikestead),
+* EsLint (Dirk Baeumer),
+* GitLens- Git supercharged (Eric Amodio),
+* Live Server (Ritwik Dey),
+* Live Share (Microsoft),
+* Vs Code Icons (),
+* Rocketseat ReactJs (Rocketseat),
 * Auto Close Tag (By Jun Han),
 * Auto Import - ES6 & TS (By Martins Oppitz),
 * Auto Rename Tag (By Jun Han),
@@ -18,23 +26,17 @@ See [UserSettings](User-Settings) for editor preferences.
 * Javascript Snippet Pack (Mahmoud Ali),
 * Path Intellisense (By Christian Kohler),
 * Prettier formatter for Visual Studio Code( By Esben Petersen),
-* React Pure Class (By Max Shishkin),
-* React Code Snippets (By Charalampos Karypidis),
 * Scss IntelliSense (By mrmlnc),
-* Tslint (By egamma),
 * Vs code Css Comments (By Ash Hitchcock),
 * vscode-icons (By Roberto Huertas),
 * Bracket Pair Colorizer (By CoenraadS),
 * Import Cost (By Wix)
-* IntelliSense for CSS class names (By Zignd)
 * markdownlint (David Anson)
 
 ## Theme
 
-Palenight Theme (By Whizkydee)
+Dracula Official( Dracula Theme)
 Cyberpunk (By Max)
-fairyFloss (By sailorhg)
-One Dark pro (By Binaryify)
 
 ## Font
 
