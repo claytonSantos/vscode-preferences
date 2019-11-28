@@ -32,6 +32,11 @@ See [UserSettings](User-Settings) for editor preferences.
 * Bracket Pair Colorizer (By CoenraadS),
 * Import Cost (By Wix)
 * markdownlint (David Anson)
+* Todo Tree
+* Rocketseat Reactjs
+* px to rem - Marco N
+* Peacock - John Papa
+* Ident-Rainbow - orderwat
 
 ## Theme
 
